@@ -1,3 +1,0 @@
-#!/bin/sh
-
-java -classpath build:jars/fop.jar:jars/avalon-framework.jar:jars/batik.jar sos.koa.XML2PDF $@
